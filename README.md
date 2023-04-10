@@ -11,6 +11,6 @@ Repositório destinado para trabalhos feitos em Java.
 5. Project Manager for Java
 6. Test Runner for Java
 
-### Executar
+### Executar:
 
 Clicar em `Run | Debug` localizado no canto inferior das classes.
