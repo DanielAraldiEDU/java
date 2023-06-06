@@ -18,6 +18,13 @@ public class App {
     names.add("Paul");
     names.add("Mark");
 
+    // don't add because it's a set
+    names.add("John");
+    names.add("Mary");
+    names.add("Peter");
+    names.add("Paul");
+    names.add("Mark");
+
     System.out.println("Names amount: " + names.size());
     System.out.println("Contain John? " + names.contains("John"));
 
