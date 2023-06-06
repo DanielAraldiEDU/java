@@ -14,3 +14,11 @@ Repositório destinado para trabalhos feitos em Java.
 ### Executar:
 
 Clicar em `Run | Debug` localizado no canto inferior das classes.
+
+_Ou executar o seguinte comando no terminal:_
+
+```java
+javac App.java && java App
+```
+
+**Observação:** Não se esqueça de conferir se os arquivos `.class` foram criados após executar o comando acima.
