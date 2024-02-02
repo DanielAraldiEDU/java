@@ -8,6 +8,7 @@ public class App {
         System.out.println(name.concat(" is a programmer"));
         System.out.println(name.contains("Daniel"));
 
-        for (String username:names) System.out.println(username);
+        for (String username : names)
+            System.out.println(username);
     }
 }

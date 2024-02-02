@@ -12,8 +12,10 @@ public class Number {
                 biggerNumber = number;
                 smallerNumber = number;
             } else {
-                if (number < smallerNumber) smallerNumber = number;
-                else if (number > biggerNumber) biggerNumber = number;
+                if (number < smallerNumber)
+                    smallerNumber = number;
+                else if (number > biggerNumber)
+                    biggerNumber = number;
             }
         }
 
