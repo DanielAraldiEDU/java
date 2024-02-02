@@ -2,6 +2,8 @@
 
 Repositório destinado para trabalhos feitos em Java.
 
+[![wakatime](https://wakatime.com/badge/user/920a7e43-2969-4212-82ff-1b375685ff58/project/fa449ed9-5df0-47f7-b7fd-29fd4bf7b75a.svg)](https://wakatime.com/badge/user/920a7e43-2969-4212-82ff-1b375685ff58/project/fa449ed9-5df0-47f7-b7fd-29fd4bf7b75a)
+
 ### Instalar as seguintes extensões:
 
 1. Debugger for Java
